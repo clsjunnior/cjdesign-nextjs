@@ -1,4 +1,4 @@
-<div style="margin:0 auto; width:600px;">
+<div style="text-align:center">
 <img src=".github/assets/Nextjs-ChakraUI.png" alt="icons" width="600" />
 
 <p style="text-align: center; margin-top:24px">
