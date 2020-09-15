@@ -1,7 +1,8 @@
-<div style="text-align:center">
-<img src=".github/assets/Nextjs-ChakraUI.png" alt="icons" width="600" />
+<p align="center" width="100%">
+    <img src=".github/assets/Nextjs-ChakraUI.png" alt="icons" width="600" align="center" />
+</p>
 
-<p style="text-align: center; margin-top:24px">
+<p width="100%" align="center">
 <a href="https://www.linkedin.com/in/celso-junior/">
 <img alt="Feito por" src="https://img.shields.io/badge/Feito%20por-Celso%20Junnior-orange">
 </a>
@@ -10,8 +11,6 @@
 <img alt="GitHub stars" src="https://img.shields.io/github/stars/clsjunnior/cjdesign-nextjs?style=social">
 <img alt="GitHub last commits" src="https://img.shields.io/github/last-commit/clsjunnior/cjdesign-nextjs">
 </p>
-
-</div>
 
 ## O projeto
 
